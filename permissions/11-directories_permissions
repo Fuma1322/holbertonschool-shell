@@ -1,2 +1,2 @@
 #!/bin/bash
--type d -exec chmod ugo+rx
+-type d -exec chmod 755
