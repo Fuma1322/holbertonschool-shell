@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -av -u -i=.html
+cp -u *.html
