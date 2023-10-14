@@ -1,2 +1,2 @@
 #!/bin/bash
-grep bin* | head -n
+grep bin* /etc/passwd | head -n
